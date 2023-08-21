@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pong",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5fad03b2-08ba-4382-b426-c2fe7f22c253"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "fc1fbeb8-8980-4d08-8a80-ae075cb54e47"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "b87cb882-7bed-47f2-9ba0-00cf9623fbb0"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "eac3b8ff-180b-40b9-8bdc-8c1256bc5af6"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "9d9471c6-1af0-49a5-9334-a1c19c0fac61"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

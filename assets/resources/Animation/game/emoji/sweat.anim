@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sweat",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "37d4ee65-bd1a-47ae-be4d-eddc881e8ff0"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "cc85a55a-6a5f-4376-a1e7-9def6d14f73b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

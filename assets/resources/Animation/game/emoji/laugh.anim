@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "laugh",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "092833c8-627a-4f92-9774-83e743083685"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "5c72c12b-d37a-47aa-8a04-faa20f4d8be0"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
